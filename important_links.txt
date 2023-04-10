@@ -1,0 +1,1 @@
+https://cronexpressiontogo.com/every-minute   --> for cronjobs
